@@ -1,0 +1,6 @@
+{
+  "name": "Tin Học 11 - Học Tập & Luyện Thi",
+  "description": "Ứng dụng học tập toàn diện môn Tin học 11 (Định hướng Tin học ứng dụng). Gồm đầy đủ 31 bài học thuộc 7 chủ đề, tùy biến liên kết app thực hành, ngân hàng trắc nghiệm 4 lựa chọn và trắc nghiệm Đúng/Sai phân hóa, chế độ tự học và kiểm tra đánh giá.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
